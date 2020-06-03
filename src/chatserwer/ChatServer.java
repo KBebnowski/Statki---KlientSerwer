@@ -3,6 +3,7 @@
 *  Jak grac:
 * 1.Uruchom klase ChatServer
 * 2.Uruchom klase ChatClient
+* 3.Wpisz localhost
 * 3.Zaznacz pola w oknie mniejszym (moje statki)
 * 4.Dopiero teraz dodaj 2 uzytkownika poprzez uruchomienie klasy ChatClient po raz 2
 * 5.Zaznacz pola w oknie mniejszym(moje statki) 2 klienta
